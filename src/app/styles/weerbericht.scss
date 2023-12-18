@@ -1,0 +1,206 @@
+.WeerBericht-container {
+    display: flex;
+    flex-direction: column;
+
+    gap: 10px;
+
+    > h1 {
+        display: flex;
+        color: $secondary;
+        font-weight: 900;
+
+        font-size: 30px;
+    }
+
+    > h1::before {
+        background-color: $accent;
+        content: "";
+        height: 40px;
+        margin-right: 10px;
+        width: 5px;
+    }
+}
+
+.WeerBericht-items {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    gap: 10px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.WeerBericht-current {
+    display: flex;
+    height: 100%;
+
+    gap: 20px;
+
+    > div {
+        background: $tertiary;
+        color: $secondary;
+
+        display: flex;
+        flex-direction: column;
+
+        width: 100%;
+        border-radius: 10px;
+        padding: 10px;
+    }
+
+    > div:first-of-type {
+        max-height: 550px;
+        p {
+            font-weight: 900;
+        }
+
+        > div {
+            height: 100%;
+            max-height: inherit;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center center;
+
+            padding: 10px;
+        }
+    }
+
+    > div:last-of-type {
+        display: flex;
+        flex-direction: column;
+
+        gap: 10px;
+        justify-content: space-between;
+
+        h1 {
+            font-size: 30px;
+            font-weight: 800;
+            padding: 0 10px;
+        }
+    }
+}
+
+.WeerBericht-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    gap: 5px;
+
+    div {
+        background: $primary;
+        border-radius: 10px;
+
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+
+        p:first-of-type {
+            font-weight: 600;
+        }
+
+        P:last-of-type {
+            background: $accent;
+            border-radius: 10px;
+            padding: 2px 10px;
+
+            color: $primary;
+        }
+    }
+}
+
+.WeerBericht-messages {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    gap: 5px;
+
+    div {
+        background: $primary;
+        border-radius: 10px;
+
+        display: flex;
+        align-items: center;
+
+        gap: 2%;
+
+        a:first-of-type {
+            background: $accent;
+            border-radius: 10px 0 0 10px;
+            height: 100%;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: $primary;
+
+            width: 10%;
+        }
+
+        p {
+            font-weight: 500;
+
+            padding: 10px;
+        }
+    }
+}
+
+//item
+.weatherItem-container {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    color: $secondary;
+    background: $tertiary;
+    border-radius: 10px;
+
+    padding: 10px;
+    gap: 10px;
+
+    > div:first-of-type {
+        display: flex;
+        flex-direction: column;
+        h3 {
+            font-weight: 600;
+            display: flex;
+            gap: 4px;
+        }
+
+        P {
+            font-weight: 500;
+        }
+    }
+
+    > div:nth-child(2) {
+        p:last-of-type {
+            color: #686868;
+        }
+    }
+
+    > div:last-of-type {
+        font-weight: 600;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-self: center;
+
+        i {
+            font-size: 40px;
+        }
+    }
+
+    .weatherItem-wind {
+        display: flex;
+        width: 50px;
+        height: 50px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}

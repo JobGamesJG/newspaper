@@ -1,0 +1,276 @@
+{
+    "header": [
+        { "item": "Nieuws" },
+        { "item": "Politiek" },
+        { "item": "Sport" },
+        { "item": "Financieel" },
+        { "item": "Entertainment" },
+        { "item": "Weer" }
+    ],
+    "NewsItem": [
+        {
+            "type": "Sport",
+            "title": "Nieuw onderdeel op de Olympische spelen: grasheuvel sleeën",
+            "image": "https://images0.persgroep.net/rcs/nLjkWxN0LLCeYCfw49BW2PqTk9E/diocontent/169999798/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8",
+            "author": "Finn Bosman",
+            "datum": "December 15, 2024",
+            "style": true
+        },
+        {
+            "type": "Wetenschap",
+            "title": "Onderzoek toont aan dat het kijken van porno leidt tot IQ verhoging",
+            "image": "https://i.redd.it/jmqequvooir81.jpg",
+            "author": "Gerard Bakker",
+            "datum": "December 15, 2024",
+            "style": false
+        },
+        {
+            "type": "Ruimte",
+            "title": "Mars Rovers ontdekken ondergrondse discotheek op mars",
+            "image": "https://whyy.org/wp-content/uploads/2021/07/fb-Untitled-compressed.jpg",
+            "author": "Daan Koster",
+            "datum": "December 15, 2024",
+            "style": false
+        },
+        {
+            "type": "Politiek",
+            "title": "Mark Rutte lacht man(38) uit na aanrijding",
+            "image": "https://www.politico.eu/cdn-cgi/image/width=965,height=643,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2021/03/15/GettyImages-1231546445.jpg",
+            "author": "Sophie Peters",
+            "datum": "augustus 7, 2019",
+            "style": false
+        },
+        {
+            "type": "Actueel",
+            "title": "Elon Musk onthult plannen over werelds grootste waterglijbaan",
+            "image": "https://image.cnbcfm.com/api/v1/image/107341579-1701376973392-gettyimages-1821107484-dsc_5130_j4s4ocdu.jpeg?v=1701377239&w=929&h=523&vtcrop=y",
+            "author": "Thijs Mulder",
+            "datum": "augustus 7, 2019",
+            "style": false
+        },
+        {
+            "type": "Advertentie",
+            "title": "Maar liefst 70% korting op uw eerste aankoop voor een raket ticket naar de zon!!",
+            "image": "https://assets-willemwever.kro-ncrv.nl/public/styles/hero_small/public/flight-sky-earth-space.jpg?h=d7e1fc6c&itok=mFbr6cjc",
+            "author": "NU",
+            "datum": "2 halen, 1 betalen!!",
+            "style": true
+        }
+    ],
+    "laasteNews": [
+        {
+            "title": "Grote brand Urk",
+            "time": "16:08"
+        },
+        {
+            "title": "Mislukte noodlanding Schiphol",
+            "time": "15:43"
+        },
+        {
+            "title": "Docent CKV uit Haarlem uitgeroepen tot docent van het jaar",
+            "time": "14:46"
+        },
+        {
+            "title": "Smartphone Verbod 1 april grap",
+            "time": "14:33"
+        },
+        {
+            "title": "Amerikaans koppel scheidt na 2 weken",
+            "time": "14:12"
+        },
+        {
+            "title": "Justin Bieber onthult in een ander lichaam geboren te zijn",
+            "time": "13:59"
+        },
+        {
+            "title": "Ajax wint eredivisie finale",
+            "time": "13:42"
+        },
+        {
+            "title": "Active Spookrijder A2",
+            "time": "13:33"
+        }
+    ],
+    "weerbericht": [
+        {
+            "place": "Haarlem",
+            "day": "Zondag",
+            "time": "15:00",
+            "temp": "10°C",
+            "bodytemp": "7°C",
+            "neerslagprocent": "20%",
+            "neerslag": "3mm",
+            "wind": "27 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 61
+        },
+        {
+            "place": "Haarlem",
+            "day": "Maandag",
+            "time": "15:00",
+            "temp": "8°C",
+            "bodytemp": "5°C",
+            "neerslagprocent": "40%",
+            "neerslag": "5mm",
+            "wind": "22 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 77
+        },
+        {
+            "place": "Haarlem",
+            "day": "Dinsdag",
+            "time": "15:00",
+            "temp": "9°C",
+            "bodytemp": "6°C",
+            "neerslagprocent": "70%",
+            "neerslag": "20mm",
+            "wind": "29 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 67
+        },
+        {
+            "place": "Haarlem",
+            "day": "Woensdag",
+            "time": "15:00",
+            "temp": "7°C",
+            "bodytemp": "3°C",
+            "neerslagprocent": "10%",
+            "neerslag": "2mm",
+            "wind": "17 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 80
+        },
+        {
+            "place": "Haarlem",
+            "day": "Donderdag",
+            "time": "15:00",
+            "temp": "8°C",
+            "bodytemp": "5°C",
+            "neerslagprocent": "0%",
+            "neerslag": "0mm",
+            "wind": "15 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 70
+        },
+        {
+            "place": "Haarlem",
+            "day": "Vrijdag",
+            "time": "15:00",
+            "temp": "9°C",
+            "bodytemp": "7°C",
+            "neerslagprocent": "0%",
+            "neerslag": "0mm",
+            "wind": "12 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 65
+        },
+        {
+            "place": "Haarlem",
+            "day": "Zaterdag",
+            "time": "15:00",
+            "temp": "10°C",
+            "bodytemp": "7°C",
+            "neerslagprocent": "10%",
+            "neerslag": "2mm",
+            "wind": "9 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 73
+        },
+        {
+            "place": "Haarlem",
+            "day": "Zondag",
+            "time": "15:00",
+            "temp": "9°C",
+            "bodytemp": "6°C",
+            "neerslagprocent": "0%",
+            "neerslag": "0mm",
+            "wind": "11 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 69
+        },
+        {
+            "place": "Haarlem",
+            "day": "Maandag",
+            "time": "15:00",
+            "temp": "9°C",
+            "bodytemp": "6°C",
+            "neerslagprocent": "0%",
+            "neerslag": "0mm",
+            "wind": "14 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 64
+        },
+        {
+            "place": "Haarlem",
+            "day": "Dinsdag",
+            "time": "15:00",
+            "temp": "8°C",
+            "bodytemp": "5°C",
+            "neerslagprocent": "20%",
+            "neerslag": "4mm",
+            "wind": "23 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 72
+        },
+        {
+            "place": "Haarlem",
+            "day": "Woensdag",
+            "time": "15:00",
+            "temp": "9°C",
+            "bodytemp": "7°C",
+            "neerslagprocent": "20%",
+            "neerslag": "2mm",
+            "wind": "19 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 70
+        },
+        {
+            "place": "Haarlem",
+            "day": "Donderdag",
+            "time": "15:00",
+            "temp": "9°C",
+            "bodytemp": "7°C",
+            "neerslagprocent": "20%",
+            "neerslag": "6mm",
+            "wind": "19 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 66
+        },
+        {
+            "place": "Haarlem",
+            "day": "Vrijdag",
+            "time": "15:00",
+            "temp": "10°C",
+            "bodytemp": "8°C",
+            "neerslagprocent": "30%",
+            "neerslag": "10mm",
+            "wind": "20 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 72
+        },
+        {
+            "place": "Haarlem",
+            "day": "Zaterdag",
+            "time": "15:00",
+            "temp": "7°C",
+            "bodytemp": "3°C",
+            "neerslagprocent": "60%",
+            "neerslag": "20mm",
+            "wind": "23 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 69
+        },
+        {
+            "place": "Haarlem",
+            "day": "Zondag",
+            "time": "15:00",
+            "temp": "6°C",
+            "bodytemp": "2°C",
+            "neerslagprocent": "70%",
+            "neerslag": "21mm",
+            "wind": "25 km/h",
+            "icon": "fa-solid fa-cloud",
+            "rotation": 69
+        }
+    ]
+}
