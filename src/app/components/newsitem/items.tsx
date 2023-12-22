@@ -5,6 +5,7 @@ export interface NewsList {
     author: string;
     datum: string;
     style: boolean;
+    num: string;
 }
 
 type Props = NewsList;
@@ -13,9 +14,10 @@ export const Item: React.FC<Props> = (data) => {
     return (
         <>
             {data.style == true ? (
-                <div
+                <a
                     className={`NewsItem ${data.style ? "first" : "second"}`}
                     style={{ backgroundImage: `url(${data.image})` }}
+                    href={`/artikels/${data.num}`}
                 >
                     <div
                         className={`NewsItem-text ${
@@ -32,9 +34,12 @@ export const Item: React.FC<Props> = (data) => {
                             <p>{data.datum}</p>
                         </div>
                     </div>
-                </div>
-            ) : (
-                <div className={`NewsItem ${data.style ? "first" : "second"}`}>
+                </a>
+            ) : data.type != "Advertentie" ? (
+                <a
+                    className={`NewsItem ${data.style ? "first" : "second"}`}
+                    href={`/artikels/${data.num}`}
+                >
                     <div style={{ backgroundImage: `url(${data.image})` }} />
                     <div
                         className={`NewsItem-text ${
@@ -44,7 +49,24 @@ export const Item: React.FC<Props> = (data) => {
                         <p>{data.type}</p>
                         <h1>{data.title}</h1>
                     </div>
-                </div>
+                </a>
+            ) : (
+                <a
+                    className="advertentie-container"
+                    style={{ backgroundImage: `url(${data.image})` }}
+                    href="/artikels/advertentie"
+                >
+                    <div
+                        className={`advertentie-text ${
+                            data.style ? "first" : "second"
+                        }`}
+                    >
+                        <div className="advertentie-type">
+                            <p>{data.datum}</p>
+                        </div>
+                        <h1>{data.title}</h1>
+                    </div>
+                </a>
             )}
         </>
     );

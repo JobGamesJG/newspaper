@@ -10,51 +10,115 @@
     "NewsItem": [
         {
             "type": "Sport",
-            "title": "Nieuw onderdeel op de Olympische spelen: grasheuvel sleeën",
-            "image": "https://images0.persgroep.net/rcs/nLjkWxN0LLCeYCfw49BW2PqTk9E/diocontent/169999798/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8",
+            "title": "Nieuwe Sensatie Op De Olympische Spelen: Grasheuvel Sleeën betreedt het toneel.",
+            "image": "https://media.nu.nl/m/8vrxlx1aeb2m_wd1280/olympische-spelen-beginnen-definitief-op-23-juli-2021.jpg",
             "author": "Finn Bosman",
-            "datum": "December 15, 2024",
-            "style": true
+            "datum": "Amsterdam - zondag 15 december 2024",
+            "style": true,
+            "num": "1",
+            "text": [
+                "In een verrassende wending heeft het Internationaal Olympisch Comité (IOC) aangekondigd dat een opwindend nieuw onderdeel, grasheuvel sleeën, zijn debuut zal maken op de komende Olympische Spelen. Deze innovatieve toevoeging belooft een unieke en adembenemende ervaring te bieden voor zowel atleten als toeschouwers.",
+                "Een Nieuw Hoofdstuk in de Olympische Geschiedenis",
+                "Grasheuvel sleeën, ook wel bekend als hill sledding, brengt een frisse wind in de winterse sporten op de Olympische Spelen. Het concept is eenvoudig maar opwindend: atleten dalen af op speciaal ontworpen sleeën vanaf een met gras begroeide heuvel. Deze heuvels, normaal gesproken gebruikt voor zomerse recreatie, worden omgetoverd tot steile banen voor een supersnelle afdaling.",
+                "Technische Uitdagingen en Innovaties",
+                "Hoewel de basis van grasheuvel sleeën op het eerste gezicht informeel lijkt, vergis je niet: het vereist vaardigheid, moed en een goed gevoel voor balans. Atleten moeten niet alleen navigeren door de bochten en sprongen van de heuvel, maar ook hun snelheid beheersen om de best mogelijke tijd neer te zetten."
+            ]
         },
         {
             "type": "Wetenschap",
             "title": "Onderzoek toont aan dat het kijken van porno leidt tot IQ verhoging",
             "image": "https://i.redd.it/jmqequvooir81.jpg",
             "author": "Gerard Bakker",
-            "datum": "December 15, 2024",
-            "style": false
+            "datum": "Amsterdam - zondag 15 december 2024",
+            "style": false,
+            "num": "2",
+            "text": [
+                "In een verrassende wending op het gebied van wetenschappelijk onderzoek volgt uit een recente studie dat er een verband kan zijn tussen het kijken van porno en een verhoging van het intelligentiequotiënt (IQ). Het onderzoek, uitgevoerd door vooraanstaande wetenschappers van de Universiteit van Leiden, heeft geleid tot opschudding en nieuwsgierigheid binnen wetenschappelijke kringen.",
+                "De Studie: Porno en Intelligentie",
+                "De studie, gepubliceerd in het wetenschappelijke tijdschrift `New Scientist`, onderzocht de relatie tussen het kijken van pornografisch materiaal en de prestaties van proefpersonen. Het onderzoek bestond uit een diverse groep deelnemers en gebruikte geavanceerde neurologische metingen en psychometrische tests om de resultaten te analyseren.",
+                "",
+                "De onderzoekers hebben verschillende mogelijke verklaringen aangetoond voor deze opmerkelijke bevinding. Een van de verklaringen is dat het kijken van porno kan leiden tot een verhoogde mentale stimulatie, vergelijkbaar met het oplossen van moeilijke puzzels of het begrijpen van abstracte opdrachten. Aanhangers van deze theorie geloven dat de visuele en cognitieve aspecten van pornografie de hersenen kunnen prikkelen en zo de cognitieve functies kunnen verbeteren.",
+                "",
+                "Natuurlijk heeft deze studie ook kritiek en ongeloof opgeroepen. Critici benadrukken dat het onderzoek van twee kanten moet komen en dat het geen oorzaak-gevolg relatie aantoont. Daarnaast benadrukken zij het belang van verdere replicatie en peer review om de geldigheid van deze bevindingen te bevestigen."
+            ]
         },
         {
             "type": "Ruimte",
             "title": "Mars Rovers ontdekken ondergrondse discotheek op mars",
             "image": "https://whyy.org/wp-content/uploads/2021/07/fb-Untitled-compressed.jpg",
             "author": "Daan Koster",
-            "datum": "December 15, 2024",
-            "style": false
+            "datum": "Ude - zondag 15 december 2024",
+            "style": false,
+            "num": "3",
+            "text": [
+                "In een onverwachte ontdekking hebben de Mars Rovers, die al jarenlang het oppervlak van de rode planeet onderzoeken, onlangs iets gevonden dat niemand had verwacht: een ondergrondse discotheek. Deze buitengewone vondst heeft de wetenschappelijke wereld in verbazing gebracht en roept zowel vragen als opwinding op over de mogelijkheden van buitenaards leven en cultuur.",
+                "",
+                "De Mars Rovers, die oorspronkelijk waren ontworpen voor geologisch onderzoek en het zoeken naar tekenen van vroeger leven, hebben per ongeluk een serie van goed bewaarde, ondergrondse kamers ontdekt die opmerkelijke gelijkenissen vertonen met een discotheek. De kamers bevatten dansvloeren, kleurrijke lichten en zelfs een muzieksysteem dat, hoewel stil, blijkbaar ooit vibrerende beats door de gangen van Mars heeft gestuurd.",
+                "",
+                "NASA en andere ruimte-agentschappen hebben plannen aangekondigd voor verder onderzoek naar de ontdekking. Er wordt overwogen om speciale rovers te sturen met geavanceerde instrumenten om de samenstelling van de muren en vloeren van de discotheek te analyseren en mogelijk meer inzicht te krijgen in de herkomst van deze ongewone structuur.",
+                "",
+                "Natuurlijk is niet iedereen overtuigd van het nieuws over de discotheek op Mars. Sommige mensen denken dat de foto's nep zijn of dat de ontdekking gewoon een grap is. Ze vragen zich af of er wel echt leven op Mars is, laat staan een discotheek. Veel mensen denken dat de kamers op de foto's misschien gewoon natuurlijke dingen zijn die eruitzien als door mensen gemaakte kamers. En anderen beweren dat de beelden mogelijk zijn gemanipuleerd of dat de ontdekking een complete grap is."
+            ]
         },
         {
             "type": "Politiek",
             "title": "Mark Rutte lacht man(38) uit na aanrijding",
             "image": "https://www.politico.eu/cdn-cgi/image/width=965,height=643,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2021/03/15/GettyImages-1231546445.jpg",
             "author": "Sophie Peters",
-            "datum": "augustus 7, 2019",
-            "style": false
+            "datum": "Den Haag - zaterdag 14 december 2024",
+            "style": false,
+            "num": "4",
+            "text": [
+                "In een onverwachte draai van gebeurtenissen na een verkeersincident gisteravond, blijkt voormalig premier Mark Rutte niet alleen een vaardige staatsman te zijn, maar ook een meester in het omgaan met onverwachte situaties. De voormalig minister-president van Nederland verraste omstanders door zijn reactie na een aanrijding in Den Haag.",
+                "",
+                "Rutte was op weg naar een officieel evenement toen zijn dienstauto betrokken raakte bij een lichte botsing met een andere auto. In plaats van zich te laten meeslepen door de spanning van het moment, bleef Rutte zijn kalmte bewaren en toonde hij een onverwacht gevoel voor humor.",
+                "",
+                "Terwijl omstanders de schade opnamen en bezorgdheid uitten, kon Rutte een glimlach niet onderdrukken. In plaats van zich bezig te houden met beschuldigingen, opende de premier zijn autoraampje en begon met de bestuurder van de andere auto te praten. Volgens getuigen scheen Rutte de situatie met lichtheid te benaderen en zelfs enkele grappen te maken.",
+                "",
+                "De 38 jarige bestuurder van de andere auto, een lokale ondernemer, beschreef de ontmoeting als `verrassend vriendelijk en ontwapenend.` Rutte stond erop dat er geen serieuze schade was en bood aan om de kosten voor eventuele reparaties te dekken, maar niet voordat hij een selfie maakte met de bestuurder om het ongewone moment vast te leggen.",
+                "",
+                "De sociale media stroomde al snel vol met foto's van de ontmoeting en lof voor Rutte's ongewone aanpak van een normaal gesproken stressvolle situatie. Op X schreef een gebruiker: `Ik wou dat alle politici zo met stress konden omgaan. #RutteRocks.` ",
+                "",
+                "De minister-president zelf reageerde op de ophef met zijn kenmerkende bescheidenheid, waarbij hij verklaarde dat het belangrijk is om licht te zien in moeilijke momenten. `Het leven is al serieus genoeg; laten we af en toe lachen,` zei Rutte tijdens een persconferentie. ",
+                "",
+                "Het lijkt erop dat Nederland een primeur heeft meegemaakt - een premier die niet alleen het land leidt, maar ook in staat is om een glimlach op het gezicht van zijn medeburgers te toveren, zelfs na zoveel afschuw van de laatste tijd."
+            ]
         },
         {
             "type": "Actueel",
             "title": "Elon Musk onthult plannen over werelds grootste waterglijbaan",
             "image": "https://image.cnbcfm.com/api/v1/image/107341579-1701376973392-gettyimages-1821107484-dsc_5130_j4s4ocdu.jpeg?v=1701377239&w=929&h=523&vtcrop=y",
             "author": "Thijs Mulder",
-            "datum": "augustus 7, 2019",
-            "style": false
+            "datum": "Haarlem - zaterdag 14 december 2024",
+            "style": false,
+            "num": "5",
+            "text": [
+                "In een verrassende wending in zijn reeks baanbrekende projecten heeft Elon Musk, de bekende ondernemer en CEO van Tesla en SpaceX, onlangs zijn nieuwste onthulling gedaan: de ontwikkeling van 's werelds grootste waterglijbaan. Musk, bekend om zijn grensverleggende ideeën en innovaties, lijkt nu de wereld van recreatie en entertainment te betreden met een project dat zowel verbazing als opwinding opwekt.",
+                "De Waterglijbaan van de Toekomst ",
+                "Volgens Musk zal deze waterglijbaan niet zomaar een gewone glijbaan zijn, maar eerder een technologisch hoogstandje dat gebruikmaakt van geavanceerde materialen en ontwerpconcepten. De plannen omvatten een glijbaan die zich uitstrekt over meerdere kilometers, met bochten, tunnels en zelfs enkele delen die door de lucht zweven.",
+                "",
+                "Musk benadrukt ook dat duurzaamheid een belangrijk onderdeel zal zijn van dit nieuwe project. De waterglijbaan zal worden voorzien van zonne-energieopwekking, hergebruik van water en andere milieuvriendelijke kenmerken. Dit past in de bredere missie van Musk om technologische vooruitgang te combineren met milieubewustzijn.",
+                "",
+                "`This water slide will not only push the boundaries of fun and excitement but also demonstrate that sustainability and innovation can go hand in hand, verklaarde Musk tijdens de persconferentie waar hij zijn plannen onthulde."
+            ]
         },
         {
             "type": "Advertentie",
-            "title": "Maar liefst 70% korting op uw eerste aankoop voor een raket ticket naar de zon!!",
+            "title": "Maar liefst 70% korting op uw eerste aankoop voor een raket ticket naar mars!!",
             "image": "https://assets-willemwever.kro-ncrv.nl/public/styles/hero_small/public/flight-sky-earth-space.jpg?h=d7e1fc6c&itok=mFbr6cjc",
             "author": "NU",
-            "datum": "2 halen, 1 betalen!!",
-            "style": true
+            "datum": "1 halen, 2 betalen!!",
+            "style": false,
+            "num": "6"
+        },
+        {
+            "type": "Advertentie",
+            "title": "1 + 1 gratis op de nieuwste tijdreis horloge!!!",
+            "image": "https://di96ochb0od20.cloudfront.net/media/porsche/products/WAP0701700N0CL-956-rothmans-horloge-racing-collectie-d7972dd99b-605.jpg",
+            "author": "NU",
+            "datum": "1 + 1 gratis!",
+            "style": false,
+            "num": "7"
         }
     ],
     "laasteNews": [
@@ -89,6 +153,26 @@
         {
             "title": "Active Spookrijder A2",
             "time": "13:33"
+        },
+        {
+            "title": "Plaatselijke Kat Redt Opnieuw Dag door Eenhoornknuffel Te Vinden",
+            "time": "13:12"
+        },
+        {
+            "title": "Wereldrecord Verbroken voor Langste Domino-Steentjesrij",
+            "time": "13:01"
+        },
+        {
+            "title": "Dorpsbewoners Verbazen Zich over Gigantische Pompoen in Lokale Moestuin",
+            "time": "12:54"
+        },
+        {
+            "title": "Historische Druivenplukwedstrijd Eindigt in Gelijke Stand na 12 Uur",
+            "time": "12:43"
+        },
+        {
+            "title": "Buurtbewoners Organiseren 'Wie Kan het Hardst Klappen met één Hand?'-Wedstrijd",
+            "time": "12:13"
         }
     ],
     "weerbericht": [
@@ -96,8 +180,8 @@
             "place": "Haarlem",
             "day": "Zondag",
             "time": "15:00",
-            "temp": "10°C",
-            "bodytemp": "7°C",
+            "temp": "17°C",
+            "bodytemp": "16°C",
             "neerslagprocent": "20%",
             "neerslag": "3mm",
             "wind": "27 km/h",
@@ -108,8 +192,8 @@
             "place": "Haarlem",
             "day": "Maandag",
             "time": "15:00",
-            "temp": "8°C",
-            "bodytemp": "5°C",
+            "temp": "15°C",
+            "bodytemp": "12°C",
             "neerslagprocent": "40%",
             "neerslag": "5mm",
             "wind": "22 km/h",
@@ -120,8 +204,8 @@
             "place": "Haarlem",
             "day": "Dinsdag",
             "time": "15:00",
-            "temp": "9°C",
-            "bodytemp": "6°C",
+            "temp": "13°C",
+            "bodytemp": "11°C",
             "neerslagprocent": "70%",
             "neerslag": "20mm",
             "wind": "29 km/h",
@@ -132,8 +216,8 @@
             "place": "Haarlem",
             "day": "Woensdag",
             "time": "15:00",
-            "temp": "7°C",
-            "bodytemp": "3°C",
+            "temp": "10°C",
+            "bodytemp": "6°C",
             "neerslagprocent": "10%",
             "neerslag": "2mm",
             "wind": "17 km/h",

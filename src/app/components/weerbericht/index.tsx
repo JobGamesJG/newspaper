@@ -13,7 +13,7 @@ export const WeerBericht = () => {
                     </p>
                     <div
                         style={{
-                            backgroundImage: `url(https://processing-cdn.buienradar.nl/processing/processed/nl/weathermaps/Temperature/default/thumbnail/202312162310.png)`,
+                            backgroundImage: `url(https://cdn.jobgamesjg.xyz/files/CV4LRm8nxR.png)`,
                         }}
                     />
                 </div>

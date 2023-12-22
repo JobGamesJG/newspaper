@@ -1,7 +1,6 @@
 "use client";
 
 import config from "@/lib/Config.json";
-import { getDate, getTime } from "@/lib/utils";
 import { usePathname } from "next/navigation";
 
 export const Navbar = () => {
@@ -9,18 +8,9 @@ export const Navbar = () => {
 
     return (
         <div className="navbar-container">
-            <div className="navbar-first">
-                <img src="https://cdn.jobgamesjg.xyz/files/1jLceVdiQx.png" />
-                <div className="navbar-miscellaneous">
-                    <p>
-                        <i className={getTime()}></i>{" "}
-                        <i>{config.weerbericht[0].temp}</i> Haarlem
-                    </p>
-                    <p>Zondag, 15 December 2024</p>
-                    <p>Log-in / Sign-Up</p>
-                </div>
-            </div>
-            <div className="navbar-second">
+            <div className="navbar">
+                <img src="https://cdn.jobgamesjg.xyz/files/sAy9SgsTEW.png" />
+
                 <div className="navbar-routes">
                     {config.header.map((data, key) => (
                         <a
@@ -36,13 +26,18 @@ export const Navbar = () => {
                         >
                             {data.item.charAt(0).toUpperCase() +
                                 data.item.slice(1)}{" "}
-                            <div />
                         </a>
                     ))}
                 </div>
-                <a>
-                    <i className="fa-solid fa-magnifying-glass"></i>
-                </a>
+                <div className="navbar-miscellaneous">
+                    <p>
+                        <i>{config.weerbericht[0].temp}</i>
+                    </p>
+                    <p>15/12/2024</p>
+                    <p>
+                        <i className="fa-regular fa-user" /> Inloggen
+                    </p>
+                </div>
             </div>
         </div>
     );

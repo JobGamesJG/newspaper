@@ -1,88 +1,48 @@
 .navbar-container {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 0;
     z-index: 999;
 
-    width: 100%;
-    margin: auto;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
+    background: $primary;
+    border-bottom: 1px solid #ededed;
 }
 
-.navbar-first {
-    background: $primary;
+.navbar {
+    display: flex;
     align-items: center;
     justify-content: space-between;
 
-    display: flex;
+    max-width: 1000px;
     width: 100%;
-    padding: 5px 300px;
-    margin: auto;
+    margin: 0 auto;
+    padding: 5px 0;
+
+    font-size: 12px;
 
     img {
-        height: 50px;
-    }
-}
-
-.navbar-miscellaneous {
-    display: flex;
-    gap: 40px;
-
-    i {
-        color: $secondary;
-        font-weight: 700;
-    }
-
-    p {
-        color: $secondary;
-        text-transform: capitalize;
-
-        font-weight: 600;
-        &:last-of-type {
-            cursor: pointer;
-        }
-    }
-}
-
-.navbar-second {
-    filter: drop-shadow(0 10px 5px #00000010);
-    background: $tertiary;
-    z-index: 998;
-
-    padding: 0 300px;
-    width: 100%;
-    display: flex;
-
-    > a {
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-
-        margin-right: 50px;
-
-        i {
-            color: #000 !important;
-        }
+        height: 40px;
     }
 }
 
 .navbar-routes {
-    padding: 10px 0 0;
-    width: 100%;
     display: flex;
-    gap: 20px;
+    align-items: center;
+
+    width: 100%;
+    gap: 40px;
+    padding: 0 20px;
 
     a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
         transition: all 0.2s;
         color: #000;
-        font-weight: 800;
-        text-transform: uppercase;
+        font-weight: 700;
 
         text-align: center;
 
@@ -106,5 +66,28 @@
         padding: 0 30px;
 
         opacity: 0;
+    }
+}
+
+.navbar-miscellaneous {
+    display: flex;
+    gap: 20px;
+
+    i {
+        color: $secondary;
+        font-weight: 700;
+    }
+
+    p {
+        display: flex;
+        gap: 5px;
+
+        color: $secondary;
+        text-transform: capitalize;
+
+        font-weight: 600;
+        &:last-of-type {
+            cursor: pointer;
+        }
     }
 }
