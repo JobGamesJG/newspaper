@@ -35,7 +35,7 @@ export const Navbar = () => {
                     </p>
                     <p>15/12/2024</p>
                     <p>
-                        <i className="fa-regular fa-user" /> Inloggen
+                        <i className="fa-regular fa-user"></> Inloggen
                     </p>
                 </div>
             </div>
