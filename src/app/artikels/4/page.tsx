@@ -4,7 +4,7 @@ import Script from "next/script";
 import config from "@/lib/Config.json";
 
 export default function Home() {
-    var ConfigId = location.pathname.slice(10);
+    var ConfigId = parseFloat(location.pathname.slice(10));
 
     return (
         <>
