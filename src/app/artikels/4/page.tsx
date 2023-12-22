@@ -1,7 +1,11 @@
+"use client";
+
+import { usePathname } from "next/navigation";
 import config from "@/lib/Config.json";
 
-export default function artikelD() {
-    var ConfigId = parseFloat(location.pathname.slice(10));
+const ArtikelD: React.FC = () => {
+    const pathname = usePathname();
+    var ConfigId = parseFloat(pathname.slice(10));
 
     return (
         <section id="artikel" className="artikel-container">
@@ -19,4 +23,6 @@ export default function artikelD() {
             </div>
         </section>
     );
-}
+};
+
+export default ArtikelD;
