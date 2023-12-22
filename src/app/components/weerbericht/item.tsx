@@ -18,7 +18,7 @@ export const Item: React.FC<Props> = (data) => {
         <div className="weatherItem-container">
             <div>
                 <h3>
-                    {data.day.slice(0, 2)} <i className={data.icon} />
+                    {data.day.slice(0, 2)} <i className={data.icon}></i>
                 </h3>
                 <p>{data.time}</p>
             </div>
@@ -28,7 +28,8 @@ export const Item: React.FC<Props> = (data) => {
             </div>
             <div>
                 <p>
-                    <i className="fa-solid fa-droplet" /> {data.neerslagprocent}
+                    <i className="fa-solid fa-droplet"></i>{" "}
+                    {data.neerslagprocent}
                 </p>
                 <p>{data.neerslag}</p>
             </div>
@@ -37,7 +38,7 @@ export const Item: React.FC<Props> = (data) => {
                     className="weatherItem-wind"
                     style={{ rotate: `${-45 + data.rotation}deg` }}
                 >
-                    <i className="fa-solid fa-location-arrow" />
+                    <i className="fa-solid fa-location-arrow"></i>
                 </a>
                 <p>{data.wind}</p>
             </div>
