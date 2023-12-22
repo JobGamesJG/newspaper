@@ -1,6 +1,6 @@
 import config from "@/lib/Config.json";
 
-export default function Home() {
+export default function artikelE() {
     var ConfigId = parseFloat(location.pathname.slice(10));
 
     return (
