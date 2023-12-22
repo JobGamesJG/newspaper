@@ -14,7 +14,10 @@ export default function Custom404() {
                     <img src="https://cdn.jobgamesjg.xyz/files/sAy9SgsTEW.png" />
                     <div>
                         <h1>Probleem tijdens het laden van de pagina</h1>
-                        <p>De pagina die u zoekt kon niet worden gevonden.</p>
+                        <p>
+                            De pagina die u probeert te zoeken kon niet worden
+                            gevonden.
+                        </p>
                     </div>
                 </div>
                 <p onClick={() => router.push("/")}>
