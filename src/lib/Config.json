@@ -109,7 +109,8 @@
             "author": "NU",
             "datum": "1 halen, 2 betalen!!",
             "style": false,
-            "num": "6"
+            "num": "6",
+            "text": [""]
         },
         {
             "type": "Advertentie",
@@ -118,7 +119,8 @@
             "author": "NU",
             "datum": "1 + 1 gratis!",
             "style": false,
-            "num": "7"
+            "num": "7",
+            "text": [""]
         }
     ],
     "laasteNews": [
