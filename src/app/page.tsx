@@ -1,5 +1,3 @@
-"use client";
-
 import Script from "next/script";
 
 import { Extra, NewsItem, WeerBericht } from "@/app/components";
@@ -23,7 +21,7 @@ export default function Home() {
             <div className="footer-container">
                 <div>
                     <img src="https://cdn.jobgamesjg.xyz/files/1jLceVdiQx.png" />
-                    <p>©2024 DPG Media B.V. – alle rechten voorbehouden</p>
+                    <p>©2024 DPG Media B.V. – alle rechten voorbehouden <i className="fa-solid fa-house"></i></p>
                 </div>
             </div>
         </>
